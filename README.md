@@ -1,6 +1,6 @@
 -  Olá, meu nome é Lucas Mattos
 -  Sou professor da Escola Pei Pedro Salvetti Netto Professor. 
--  Leciono a disciplina de Tecnologia, Pensamento computacional. 
+-  Leciono a disciplina de Tecnologia e Pensamento computacional. 
 
 <!---
 lucascoach/lucascoach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
